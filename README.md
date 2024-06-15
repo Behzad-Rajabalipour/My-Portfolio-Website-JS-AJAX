@@ -50,4 +50,4 @@ This repository contains a portfolio website that utilizes JavaScript and AJAX f
 Contributions are welcome! Please open an issue or submit a pull request for any bugs or feature requests.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under Behzad Rajabalipour.
